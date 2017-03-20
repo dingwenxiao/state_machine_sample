@@ -2,6 +2,7 @@
 *.class
 .classpath
 target/
+.settings
 
 # Log file
 *.log
